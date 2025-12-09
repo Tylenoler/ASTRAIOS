@@ -1,0 +1,1 @@
+This project aims to provide a solotion for establish a wheel leg robot using ros2 and gazebo simulator.
